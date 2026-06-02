@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dubey/OneDrive/Desktop/Summer_Assignment_2401920130207/Week_1/Day_1",
-      "program": "c:/Users/dubey/OneDrive/Desktop/Summer_Assignment_2401920130207/Week_1/Day_1/build/Debug/outDebug",
+      "cwd": "c:/Users/dubey/OneDrive/Desktop/Summer_Assignment_2401920130207/Week_1/Day_1/day_2",
+      "program": "c:/Users/dubey/OneDrive/Desktop/Summer_Assignment_2401920130207/Week_1/Day_1/day_2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
