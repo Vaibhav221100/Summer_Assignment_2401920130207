@@ -1,7 +1,8 @@
 package music.string;
+import music.Playable;
 public class Veena implements Playable {
-    @override
+    @Override
     public void play(){
-        System.out.print(" playing veena");
+        System.out.println(" playing veena");
     }
 }

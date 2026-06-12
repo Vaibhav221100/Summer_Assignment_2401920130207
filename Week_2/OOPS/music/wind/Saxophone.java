@@ -1,7 +1,8 @@
 package music.wind;
-public class Veena implements Playable {
-    @override
+import music.Playable;
+public class Saxophone implements Playable {
+    @Override
     public void play(){
-        System.out.print(" playing Saxophone");
+        System.out.println(" playing Saxophone");
     }
 }
