@@ -10,7 +10,6 @@ public static void main( String [] args ){
     Saxophone s= new Saxophone();
     s.play();
 
-    //usig playable 
     Playable p;
     p=new Veena();
     p.play();
